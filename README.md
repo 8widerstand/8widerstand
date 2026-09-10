@@ -5,7 +5,7 @@
 
 <!-- ===== TYPING HEADER ===== -->
 <a href="https://github.com/8widerstand">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8BE9FD&center=true&vCenter=true&width=650&lines=Angular+%26+TypeScript+on+the+front;Java+%26+Spring+Boot+on+the+back;Engineering+student+%40+TH+N%C3%BCrnberg;Working+Student+(Frontend)+%40+DOCUFY" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8BE9FD&center=true&vCenter=true&width=650&lines=Angular+%26+TypeScript+on+the+front;Java+%26+Spring+Boot+on+the+back;Engineering+student+%40+TH+N%C3%BCrnberg;Working+Student+(Frontend)+%40+DOCUFY+GmbH" alt="typing" />
 </a>
 
 <br/>
